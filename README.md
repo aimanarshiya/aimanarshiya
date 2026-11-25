@@ -6,6 +6,10 @@
 📍 Guntur, India  
 💡 Building practical software solutions with emerging technologies.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aiman-arshiya-shaik-16741a378/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/aimanarshiya)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanarshiyazeem@gmail.com)
+
 ---
 
 ## 🚀 About Me
@@ -68,7 +72,7 @@ I'm a Computer Science undergraduate passionate about building scalable applicat
 | 🔍 [Trust Graph](https://github.com/aimanarshiya/trust-graph-agent) | Multi-actor e-commerce fraud detection using graph intelligence and AI agents. | Python, XGBoost, NetworkX, FastAPI, Gemini |
 | 🌍 [WanderLust](https://github.com/aimanarshiya/WanderLust) | Full-stack property listing platform with authentication, maps, and cloud image uploads. | MERN Stack |
 | 🌱 BioSniff | Smart agricultural monitoring using sensor data and computer vision for crop health analysis. | ESP32, BME688, PyTorch, YOLOv8 |
-| ⚛️ [Quantum ML Research](https://github.com/aimanarshiya/Bio-Sniff-Quantum-Optimization) | Exploring quantum machine learning and QAOA-based optimization. | Python, Qiskit, QSVC, PCA, QAOA |
+| ⚛️ [BioSniff Quantum Research](https://github.com/aimanarshiya/Bio-Sniff-Quantum-Optimization) | Quantum machine learning and QAOA-based optimization for agricultural sensor placement. | Python, Qiskit, QSVC, PCA, QAOA |
 | 🌾 [FarmPay-AI](https://github.com/aimanarshiya/FarmPay-AI) | Voice-first AI concept helping farmers compare buyer offers and calculate net returns. | Python, FastAPI, AI Agents |
 
 ---
@@ -84,9 +88,8 @@ I'm a Computer Science undergraduate passionate about building scalable applicat
 - ⭐ **Best Student of the Semester.**
 - 👩‍💻 **Team Member** — Smart India Hackathon 2026.
 
+
 ---
-
-
 
 ## 📊 GitHub Statistics
 
@@ -104,14 +107,14 @@ I'm a Computer Science undergraduate passionate about building scalable applicat
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/aiman-arshiya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aiman-arshiya-shaik-16741a378/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/aimanarshiya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aimanarshiyaazeem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:aimanarshiyazeem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -124,6 +127,7 @@ I enjoy exploring emerging technologies, mentoring peers, collaborating in hacka
 **"Learn continuously. Build fearlessly. Create with purpose."** 🚀
 
 ---
+
 <p align="center">
   <i>Thanks for visiting my profile! Let's connect and build something impactful together.</i>
 </p>
