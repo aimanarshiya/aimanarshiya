@@ -35,105 +35,106 @@ I enjoy taking an idea from problem identification to implementation, testing an
 
 ---
 
-## Selected Projects & Engineering Work
+## Selected Projects
 
-### 1. Trust Graph — Multi-Actor E-Commerce Fraud Detection
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Trust Graph
+**AI-Powered Fraud Detection**
+
+- XGBoost fraud detection
+- Graph-based collusion analysis
+- Multi-agent AI explanations
+- Audit logs and fairness checks
+
+`Python` `FastAPI` `NetworkX` `Gemini`
+
 **AI Build 2026 | Team Lead**
 
-Designed an AI-powered fraud detection solution focused on identifying suspicious transactions and coordinated fraud patterns.
+</td>
+<td width="50%" valign="top">
 
-- Trained an XGBoost fraud detection model using the IEEE-CIS dataset.
-- Explored graph-based collusion detection using the Elliptic dataset and NetworkX.
-- Implemented community detection and velocity anomaly detection.
-- Built a FastAPI backend with appeal workflows, audit logs and fairness auditing.
-- Integrated a Gemini-powered multi-agent pipeline for explanation, remediation and self-checking.
+### WanderLust
+**MERN Property Listings Platform**
 
-**Engineering:** Python, XGBoost, NetworkX, FastAPI, SQLite, Gemini API
+- Full-stack deployed application
+- Property search and map discovery
+- Secure authentication and sessions
+- Multi-user listing management
 
-### 2. WanderLust — Full-Stack Property Listings Platform
-**MERN Stack | Deployed**
+`MongoDB` `Express` `React` `Node.js`
 
-Built and deployed an Airbnb-style property listing application.
+**Live Project**
 
-- Developed RESTful APIs using Node.js and Express.
-- Implemented complete CRUD operations and property search.
-- Integrated map-based property discovery.
-- Implemented Passport.js authentication and session management.
-- Added multi-user listing ownership and role-based access control.
-- Integrated Cloudinary for image management.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Engineering:** MongoDB, Express.js, React.js, Node.js, Cloudinary, Passport.js
+### BioSniff
+**AI + IoT Agricultural Intelligence**
 
-### 3. BioSniff — AI-Powered Agricultural Intelligence
-**5G Innovation Hackathon | Finalist**
+- 12,868 images across 16 classes
+- 3-node sensor monitoring architecture
+- EfficientNet-B0 and YOLOv8
+- Zero train/test leakage in dataset audit
 
-Developing an IoT and AI-based agricultural monitoring system for early crop disease and pest warning.
+`Python` `PyTorch` `ESP32` `BME688`
 
-- Integrated ESP32 nodes with BME688 gas sensors.
-- Designed a multi-node agricultural sensing architecture.
-- Developed an EfficientNet-B0 image classification pipeline.
-- Integrated YOLOv8 for visual detection.
-- Explored temporal modelling for sensor-based early warning.
+**5G Innovation Hackathon Finalist**
 
-**Dataset and implementation evidence:**
-- 12,868 crop images across 16 classes.
-- 9,007 training, 1,930 validation and 1,931 testing images.
-- Zero train/test leakage detected during dataset audit.
+</td>
+<td width="50%" valign="top">
 
-**Engineering:** Python, ESP32, BME688, PyTorch, EfficientNet-B0, YOLOv8, OpenCV
+### Bio-Sniff Quantum Optimization
+**QAOA-Based Sensor Placement**
 
-### 4. Bio-Sniff Quantum Optimization
-**QAOA-Based Agricultural Sensor Placement**
+- QUBO optimization formulation
+- Quantum circuit experiments
+- Agricultural sensor placement research
 
-Exploring quantum optimization for agricultural sensor placement.
+`Python` `Qiskit` `QAOA`
 
-- Formulated sensor placement as a QUBO problem.
-- Implemented QAOA-based optimization experiments.
-- Explored quantum circuit design and optimization using Qiskit.
-- Investigated sensor deployment strategies.
+**Research Project**
 
-**Engineering:** Python, Qiskit, QAOA, Quantum Optimization
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 5. Quantum vs Classical Machine Learning
-**Binary MNIST Classification — Research Project**
+### Quantum vs Classical ML
+**Binary MNIST Classification**
 
-Comparative evaluation of classical and quantum machine learning for distinguishing handwritten digits 3 and 6.
+- 3 vs 6 digit classification
+- Classical SVM: 98.98%
+- Quantum QSVC: 54%
+- PCA-based 4-feature representation
 
-- Applied PCA to reduce 784 image features to 4 dimensions.
-- Developed a classical SVM baseline.
-- Implemented quantum kernel classification using QSVC.
-- Evaluated a precomputed quantum kernel with classical SVC.
+`Python` `Qiskit` `Scikit-learn`
 
-**Experimental results:**
+**Research Experiment**
 
-| Model | Test accuracy |
-|---|---:|
-| Classical SVM | 98.98% |
-| Quantum QSVC | 54% |
-| Precomputed Quantum Kernel SVC | 53% |
+</td>
+<td width="50%" valign="top">
 
-**Experimental setup:** 4 qubits, final quantum experiment with 200 training and 100 testing samples.
+### SigmaGPT
+**Full-Stack Application**
 
-These are results from the current experimental setup, not claims of general quantum advantage.
+- MERN architecture
+- REST API development
+- MongoDB data modelling
+- Responsive React frontend
 
-**Engineering:** Python, Qiskit, Qiskit Machine Learning, Scikit-learn
+`MongoDB` `Express` `React` `Node.js`
 
-### 6. SigmaGPT — MERN Stack Application
 **In Progress**
 
-Building a full-stack application from the ground up, focusing on REST APIs, MongoDB data modelling, React frontend development and backend integration.
+</td>
+</tr>
+</table>
 
-### 7. Campus-Connect — Student Community Application
-
-Developing an Android application using React Native and Expo Router to keep students updated about college events and campus activities.
-
-### 8. College Leave Permission System
-
-Developed a Django-based application to digitize a paper-based faculty leave approval workflow using Python and MySQL.
-
----
-
-## Hackathons, Competitions & Recognition
 
 | Event | Achievement |
 |---|---|
